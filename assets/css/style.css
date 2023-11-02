@@ -10,7 +10,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family:'Times New Roman', Times, serif;
   color: #444444;
 }
 
@@ -120,7 +120,7 @@ h6 {
   background: #e2e2e2;
   transition: all 0.5s;
   z-index: 997;
-  padding: 15px 0;
+  padding: 10px 0;
   box-shadow: 0px 0 18px rgba(55, 66, 59, 0.08);
 }
 
@@ -133,16 +133,18 @@ h6 {
   letter-spacing: 1px;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
+
 }
 
 
 #header .logo a {
   color: BLACK;
-  font-family: ;
+  
 }
 
 #header .logo img {
-  max-height: 40px;
+  margin: 0;
+  max-height: 60px;
 }
 
 /**
